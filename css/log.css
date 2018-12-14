@@ -1,0 +1,185 @@
+/*===================log=======================*/
+#log{
+	height: 104px;
+	padding: 20px 0;
+	box-sizing: border-box;
+	background: #f2f2f2;
+}
+#log .log{
+	height:64px;
+}
+#log .log h1{
+	float: left;
+	display: inline-block;
+	height:64px;
+}
+#log .log h1 img{
+	    width: 190px;
+    height: 61px;
+    display: block;
+    margin-top: 3px;
+}
+#log .log p{
+	margin-top: 10px;
+    margin-left: 35px;
+	float: left;
+	display: inline-block;
+	width: 170;
+	height:53px;
+	    line-height: 50px;
+	font-size: 28px;
+    color: #333333;
+    padding-left: 30px;
+    border-left: 1px solid #dbdbdb;
+}
+/*=====================contient=====================*/
+#contient{
+	height: 480px;
+	box-sizing: border-box;
+	padding: 46px 0;
+	background: url(../img/logbj.jpg) no-repeat center;
+}
+#contient .contient{
+	height:392px;
+}
+#contient .contient .fom{
+	box-sizing: border-box;
+	float: right;
+    margin-right: 45px;
+    width: 342px;
+    height: 390px;
+    background: #ffffff;
+    border: 1px solid #dbdbdb;
+    padding: 25px 21px 5px;
+}
+#contient .contient .fom h3{
+	display: inline-block;
+	font-size: 18px;
+    color: #686565;
+    font-weight: 700;
+    float:left;
+    margin-bottom:40px;
+	}
+#contient .contient .fom span{
+	display: inline-block;
+	color: #777777;
+    font-size: 12px;
+    float:right;
+    margin-bottom:40px;
+	}
+	#contient .contient .fom span:nth-child(2) a:hover{
+				color:#FD368F;
+		}
+#contient .contient .fom  span a{
+    color: #137ce9;
+	}
+	#contient .contient .fom form{
+		float:left;
+	}
+#contient .contient .fom form div{
+	
+	height: 40px;
+	width: 297px;
+	margin-bottom:12px;
+    	}
+
+#contient .contient .fom form div .tex{
+		box-sizing: border-box;
+		padding-left: 40px;
+		width: 297px;
+	    height: 38px;
+	    line-height: 40px;
+	    font-size: 13px;
+	    color: #666;
+	    border: none;
+	    background:#f9f9f9;
+	     background: url(../img/logous.png) no-repeat #f9f9f9;
+	    background-position: 14px -113px;
+		
+	}
+	#contient .contient .fom form div #password{
+		    background-position: 14px -169px;
+		}
+	#contient .contient .fom form div .yan{
+		float: left;
+		height: 40px;
+		width: 167px;
+		margin-bottom:0px;
+		}
+	#contient .contient .fom form div .yan .tex{
+		float: left;
+		height: 40px;
+		width: 167px;
+		background-position: 14px -396px;
+		}
+	#contient .contient .fom form div img{
+		margin-top:5px;
+		width: 102px;
+		height: 35px;
+		float: right;
+		}
+	#contient .contient .fom form .chec span{
+		float: left;
+		    margin-bottom: 0px;
+		}
+	#contient .contient .fom form .chec span:last-child{
+		float: right;
+		}
+	#contient .contient .fom form .chec span a{
+		color: #9F9F9F;
+		}
+
+	#contient .contient .fom form .chec span #deng{
+		margin-left:30px;
+		}
+		#contient .contient .fom form #submit{
+			display: block;
+			background: #FD368F;
+			 color: #FFF;
+			 width: 296px;
+			 height: 44px;
+   			 line-height: 44px;
+   			 text-align: center;
+  			 font-size: 20px;
+		}
+			#contient .contient .fom form .chec  .xieyi{
+				color:#137ce9;
+			}
+			#contient .contient .fom form .chec  .xieyi:hover{
+				color:#FD368F;
+			}
+
+/*=========================自定义css=====================================*/
+/*#contient .contient .fom form div .tex{
+	color:#f00;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+/*===================footer=======================*/
+#footer{
+	height: 78px;
+	box-sizing: border-box;
+	padding-bottom: 10px;
+	background:#eaeaea;;
+	margin-top: 0;
+}
+#footer .footer{
+	height:68px;
+	background: #00FFFF;
+}
+#footer .bottom .footer-bottom{
+	width: 1200px;
+	margin: 0 auto;
+	height: 78px;
+}
+
